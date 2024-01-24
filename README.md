@@ -10,4 +10,3 @@ e.g. The string “Hello World” would become “HeLlO WoRlD”
 lower and upper case.
 e.g. The string: “I am learning to code” would become “i AM learning
 TO code”.
-#### Tip: Using the split() and join() functions will help you here.
